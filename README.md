@@ -5,3 +5,5 @@ declaro que si es un blog increible
 
 
 platzi es lo mejor
+
+este es un nuevo log
